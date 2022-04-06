@@ -1,0 +1,2 @@
+# Book-Recommendation-model
+ Made a Book Recommendation machine learning modelusing multivariable logistic regression , Used labeled dataset og approx 6000 books for visualizing features and training,testing of the model , Employed various modules of sci-kit learn ,seaborn,matplotlib and Numpy libraries in the model . Used confusion matrix to show accuracy score of the model and Got 86 % of accuracy on the test set
